@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MariaDB - JiaKitchen@182.92.228.212" uuid="d6bc4bf5-da63-4836-9696-83f1e059f123">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://182.92.228.212:3336/JiaKitchen</jdbc-url>
+    </data-source>
+  </component>
+</project>
